@@ -33,7 +33,7 @@ Running locally is pretty simple, just follow these steps:
 then paste `http://127.0.0.1:5000` in your web browser.  
 6. Deblurring may _take a while_ and while patience is a virtue, your patience may truly be tested here so feel free to grab a drink while waiting!
 7. Multiple consecutive deblurrings may start outputting the same images when saving on some systems. If that's the case,
-consider erasing your receent history or opening the application on an incognito/private window.
+consider erasing your recent history or opening the application on an incognito/private window.
 
 Note: We have sample images in the repository under `sample_images` for you to test out.
 
